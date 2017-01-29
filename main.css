@@ -1,0 +1,41 @@
+html, body {
+  font-family: 'Rokkitt', serif;;
+  font-size: 14px
+}
+
+body {
+  width: 610px;
+  margin: 0 auto;
+  line-height: 1.6em;
+  letter-spacing: 0.03em;
+}
+
+ul {
+
+}
+
+ul li {
+  list-style: none;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+ul.projects li {
+  margin-top: 40px;
+}
+
+span.year{
+  float: right;
+}
+
+a.github {
+  font-size: 12px;
+  font-style: italic;
+}
+
+p.tools {
+  font-size: 12px;
+  font-style: italic;
+}
